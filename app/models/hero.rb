@@ -1,4 +1,4 @@
-class Hero
+class Team
 
   attr_accessor :name, :motto
 
